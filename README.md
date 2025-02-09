@@ -1,6 +1,6 @@
 # Random Password Generator
 
-![Random Password Generator](https://via.placeholder.com/800x200.png?text=Random+Password+Generator)
+![Random Password Generator](https://via.placeholder.com/800x200.png?text=Random+Password+Generator](https://cdn-icons-png.flaticon.com/512/7631/7631097.png)
 
 ## Description
 
