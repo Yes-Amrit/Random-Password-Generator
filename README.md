@@ -1,6 +1,5 @@
 # Random Password Generator
 
-![Random Password Generator][(https://www.flaticon.com/free-icon/password-manager_7631097)]
 
 ## Description
 
